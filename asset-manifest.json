@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MikeTroianello/pages.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/MikeTroianello/pages.git/static/js/main.657fd419.chunk.js",
-    "main.js.map": "/MikeTroianello/pages.git/static/js/main.657fd419.chunk.js.map",
-    "runtime-main.js": "/MikeTroianello/pages.git/static/js/runtime-main.274aff14.js",
-    "runtime-main.js.map": "/MikeTroianello/pages.git/static/js/runtime-main.274aff14.js.map",
-    "static/js/2.3caa9ffd.chunk.js": "/MikeTroianello/pages.git/static/js/2.3caa9ffd.chunk.js",
-    "static/js/2.3caa9ffd.chunk.js.map": "/MikeTroianello/pages.git/static/js/2.3caa9ffd.chunk.js.map",
-    "static/js/3.6dd90571.chunk.js": "/MikeTroianello/pages.git/static/js/3.6dd90571.chunk.js",
-    "static/js/3.6dd90571.chunk.js.map": "/MikeTroianello/pages.git/static/js/3.6dd90571.chunk.js.map",
-    "index.html": "/MikeTroianello/pages.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/MikeTroianello/pages.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3caa9ffd.chunk.js.LICENSE.txt": "/MikeTroianello/pages.git/static/js/2.3caa9ffd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/MikeTroianello/pages.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/pages/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pages/static/js/main.657fd419.chunk.js",
+    "main.js.map": "/pages/static/js/main.657fd419.chunk.js.map",
+    "runtime-main.js": "/pages/static/js/runtime-main.0fa9cc2e.js",
+    "runtime-main.js.map": "/pages/static/js/runtime-main.0fa9cc2e.js.map",
+    "static/js/2.3caa9ffd.chunk.js": "/pages/static/js/2.3caa9ffd.chunk.js",
+    "static/js/2.3caa9ffd.chunk.js.map": "/pages/static/js/2.3caa9ffd.chunk.js.map",
+    "static/js/3.6dd90571.chunk.js": "/pages/static/js/3.6dd90571.chunk.js",
+    "static/js/3.6dd90571.chunk.js.map": "/pages/static/js/3.6dd90571.chunk.js.map",
+    "index.html": "/pages/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pages/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3caa9ffd.chunk.js.LICENSE.txt": "/pages/static/js/2.3caa9ffd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pages/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.274aff14.js",
+    "static/js/runtime-main.0fa9cc2e.js",
     "static/js/2.3caa9ffd.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.657fd419.chunk.js"
